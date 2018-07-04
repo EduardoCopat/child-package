@@ -1,0 +1,2 @@
+# child-package
+test
